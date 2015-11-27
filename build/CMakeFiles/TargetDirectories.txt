@@ -1,0 +1,4 @@
+/home/axlevisu/Downloads/gnuradio_install/gnuradio/gr-autotune/build/docs/doxygen/CMakeFiles/doxygen_target.dir
+/home/axlevisu/Downloads/gnuradio_install/gnuradio/gr-autotune/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/axlevisu/Downloads/gnuradio_install/gnuradio/gr-autotune/build/python/CMakeFiles/pygen_python_6f5dd.dir
+/home/axlevisu/Downloads/gnuradio_install/gnuradio/gr-autotune/build/CMakeFiles/uninstall.dir
